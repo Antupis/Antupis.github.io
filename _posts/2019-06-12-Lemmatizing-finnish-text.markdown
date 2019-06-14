@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Finnish Lemmatazion With Python."
+title: "Finnish Lemmatization With Python."
 categories: Lemmatization Finnish
 ---
 Natural language processing in Finish language is very limited. There are very few libraries and documentation is almost nonexistence. This problem arises, especially with lemmatization. there are only a few good options to lemmatize Finnish text. This blog post covers how to lemmatize Finnish text with Python.
